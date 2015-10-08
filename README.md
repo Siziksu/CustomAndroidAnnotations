@@ -1,5 +1,5 @@
 # CustomAndroidAnnotations
-This project is intended to bring and approach to the **Custom Annotations** in Android. It will make use of the `RetentionPolicy.RUNTIME` as _retention policy_ and the following _element types_:
+This project is intended to bring an approach to the **Custom Annotations** in Android. It will make use of the `RetentionPolicy.RUNTIME` as _retention policy_ and the following _element types_:
 
 - `ElementType.CLASS`
 - `ElementType.METHOD`
