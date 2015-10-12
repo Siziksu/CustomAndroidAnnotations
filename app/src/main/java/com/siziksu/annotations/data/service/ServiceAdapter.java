@@ -1,4 +1,4 @@
-package com.siziksu.annotations.app.service;
+package com.siziksu.annotations.data.service;
 
 public class ServiceAdapter {
 

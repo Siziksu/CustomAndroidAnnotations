@@ -1,6 +1,6 @@
-package com.siziksu.annotations.app.bus.event;
+package com.siziksu.annotations.data.bus.event;
 
-import com.siziksu.annotations.app.mock.BusFakeClass;
+import com.siziksu.annotations.commons.mock.BusFakeClass;
 
 public class GetFakeClassEvent {
 

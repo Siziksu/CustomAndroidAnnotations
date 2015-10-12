@@ -1,8 +1,8 @@
-package com.siziksu.annotations.app.check_method;
+package com.siziksu.annotations.data.check_method;
 
 import android.support.annotation.NonNull;
 
-import com.siziksu.annotations.app.annotation.CheckMethod;
+import com.siziksu.annotations.data.annotation.CheckMethod;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;

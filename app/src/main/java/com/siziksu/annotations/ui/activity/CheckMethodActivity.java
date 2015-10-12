@@ -5,9 +5,9 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 import com.siziksu.annotations.R;
-import com.siziksu.annotations.app.annotation.CheckMethod;
-import com.siziksu.annotations.app.check_method.CheckMethodAnnotation;
-import com.siziksu.annotations.app.mock.CheckMethodFakeClass;
+import com.siziksu.annotations.data.annotation.CheckMethod;
+import com.siziksu.annotations.data.check_method.CheckMethodAnnotation;
+import com.siziksu.annotations.commons.mock.CheckMethodFakeClass;
 
 public class CheckMethodActivity extends Activity {
 

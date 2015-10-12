@@ -9,7 +9,7 @@ import android.widget.AdapterView;
 import com.siziksu.annotations.R;
 import com.siziksu.annotations.ui.object.Index;
 import com.siziksu.annotations.ui.object.adapter.IndexAdapter;
-import com.siziksu.commons.Constants;
+import com.siziksu.annotations.app.Constants;
 
 import java.util.ArrayList;
 import java.util.List;

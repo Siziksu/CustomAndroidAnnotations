@@ -1,10 +1,10 @@
-package com.siziksu.annotations.app.mock;
+package com.siziksu.annotations.commons.mock;
 
-import com.siziksu.annotations.app.bus.Bus;
-import com.siziksu.annotations.app.bus.Subscribe;
-import com.siziksu.annotations.app.bus.event.GetFakeClassEvent;
-import com.siziksu.annotations.app.bus.event.GetIntegerEvent;
-import com.siziksu.commons.Logger;
+import com.siziksu.annotations.data.bus.Bus;
+import com.siziksu.annotations.data.bus.Subscribe;
+import com.siziksu.annotations.data.bus.event.GetFakeClassEvent;
+import com.siziksu.annotations.data.bus.event.GetIntegerEvent;
+import com.siziksu.annotations.commons.Logger;
 
 public class BusFakeClass {
 

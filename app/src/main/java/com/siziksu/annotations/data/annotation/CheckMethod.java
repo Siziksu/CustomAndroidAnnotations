@@ -1,4 +1,4 @@
-package com.siziksu.annotations.app.annotation;
+package com.siziksu.annotations.data.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
@@ -6,9 +6,9 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 @Retention(RetentionPolicy.RUNTIME)
-@Target(ElementType.PARAMETER)
-public @interface Query {
+@Target(ElementType.METHOD)
+public @interface CheckMethod {
 
-  String value();
+  // Should be ignored this method?
+  boolean value() default true;
 }
-

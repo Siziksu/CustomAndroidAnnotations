@@ -1,8 +1,8 @@
-package com.siziksu.annotations.app.service;
+package com.siziksu.annotations.data.service;
 
-import com.siziksu.annotations.app.annotation.GET;
-import com.siziksu.annotations.app.annotation.Query;
-import com.siziksu.commons.Logger;
+import com.siziksu.annotations.data.annotation.GET;
+import com.siziksu.annotations.data.annotation.Query;
+import com.siziksu.annotations.commons.Logger;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.InvocationHandler;

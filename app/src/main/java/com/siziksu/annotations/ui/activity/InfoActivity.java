@@ -5,9 +5,9 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 import com.siziksu.annotations.R;
-import com.siziksu.annotations.app.annotation.Info;
-import com.siziksu.annotations.app.info.InfoAnnotation;
-import com.siziksu.annotations.app.mock.InfoFakeClass;
+import com.siziksu.annotations.data.annotation.Info;
+import com.siziksu.annotations.data.info.InfoAnnotation;
+import com.siziksu.annotations.commons.mock.InfoFakeClass;
 
 @Info(
     priority = Info.Priority.HIGH,

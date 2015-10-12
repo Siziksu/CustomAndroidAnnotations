@@ -1,6 +1,6 @@
-package com.siziksu.annotations.app.mock;
+package com.siziksu.annotations.commons.mock;
 
-import com.siziksu.annotations.app.annotation.CheckMethod;
+import com.siziksu.annotations.data.annotation.CheckMethod;
 
 public class CheckMethodFakeClass {
 

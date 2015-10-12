@@ -8,12 +8,12 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.siziksu.annotations.R;
-import com.siziksu.annotations.app.bus.Bus;
-import com.siziksu.annotations.app.bus.Subscribe;
-import com.siziksu.annotations.app.bus.event.GetFakeClassEvent;
-import com.siziksu.annotations.app.bus.event.GetIntegerEvent;
-import com.siziksu.annotations.app.bus.event.GetStringsEvent;
-import com.siziksu.annotations.app.mock.BusFakeClass;
+import com.siziksu.annotations.data.bus.Bus;
+import com.siziksu.annotations.data.bus.Subscribe;
+import com.siziksu.annotations.data.bus.event.GetFakeClassEvent;
+import com.siziksu.annotations.data.bus.event.GetIntegerEvent;
+import com.siziksu.annotations.data.bus.event.GetStringsEvent;
+import com.siziksu.annotations.commons.mock.BusFakeClass;
 
 import java.util.ArrayList;
 

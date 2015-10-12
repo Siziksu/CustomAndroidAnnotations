@@ -6,7 +6,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.siziksu.annotations.R;
-import com.siziksu.annotations.app.service.ServiceAdapter;
+import com.siziksu.annotations.data.service.ServiceAdapter;
 
 public class ServiceActivity extends Activity {
 

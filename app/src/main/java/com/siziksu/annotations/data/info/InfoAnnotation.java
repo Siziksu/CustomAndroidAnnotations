@@ -1,8 +1,8 @@
-package com.siziksu.annotations.app.info;
+package com.siziksu.annotations.data.info;
 
 import android.support.annotation.NonNull;
 
-import com.siziksu.annotations.app.annotation.Info;
+import com.siziksu.annotations.data.annotation.Info;
 
 public class InfoAnnotation {
 

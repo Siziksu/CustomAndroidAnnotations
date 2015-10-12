@@ -1,4 +1,4 @@
-package com.siziksu.annotations.app.bus;
+package com.siziksu.annotations.data.bus;
 
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;

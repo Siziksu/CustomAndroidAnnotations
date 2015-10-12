@@ -1,4 +1,4 @@
-package com.siziksu.commons;
+package com.siziksu.annotations.commons;
 
 import android.util.Log;
 

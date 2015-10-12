@@ -1,6 +1,6 @@
-package com.siziksu.annotations.app.mock;
+package com.siziksu.annotations.commons.mock;
 
-import com.siziksu.annotations.app.annotation.Info;
+import com.siziksu.annotations.data.annotation.Info;
 
 @Info(
     priority = Info.Priority.LOW,

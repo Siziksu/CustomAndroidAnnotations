@@ -1,4 +1,4 @@
-package com.siziksu.annotations.app.bus.event;
+package com.siziksu.annotations.data.bus.event;
 
 import java.util.List;
 
